@@ -4,4 +4,4 @@ SQL Query:
 
     SELECT AVG(age) FROM dareit.students;
 
-Answer: The average age of students in thee class is **~26.67 years (26.6666666666666667)**
+Answer: The average age of students in the class is **~26.67 years (26.6666666666666667)**
