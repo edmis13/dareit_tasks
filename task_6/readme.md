@@ -1,0 +1,1 @@
+https://storage.googleapis.com/my-bucket-task6/index.html
