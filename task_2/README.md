@@ -19,16 +19,19 @@ Create and host a static website using Google Cloud Storage (GCS) bucket
     1. website_url
     1. index.html; copy and paste content below:
 
-        <!DOCTYPE html>
-        <html>
-         <head>
-          <title>Hello World: Static Website</title>
-         </head>
-          <body>
-           <h1>I am hosted on a bucket in GCP.</h1>
-           <p>DareIT rocks!</p>
-          </body>
-        </html>
+```
+    <!DOCTYPE html>
+      <html>
+       <head>
+        <title>Hello World: Static Website</title>
+       </head>
+       <body>
+        <h1>I am hosted on a bucket in GCP.</h1>
+        <p>DareIT rocks!</p>
+       </body>
+      </html>
+      
+```
 
 3. Upload the index.html file to the bucket.
 
