@@ -1,3 +1,4 @@
+/*
 provider "google" {
   project = "western-cascade-378410"
   region  = "us-central1"
@@ -81,3 +82,4 @@ resource "google_sql_user" "user" {
   instance = "dareit-dbinstance-tf"
   password = "xyzXYZ98!"
 }
+*/
