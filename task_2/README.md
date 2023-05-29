@@ -1,8 +1,8 @@
-# Task #2: Sttic website
+# Task #2: Static website
 
 ## Goal of the task:
 
-Create and host a static website using Google Cloud Storage (GCS) bucket
+**Create and host a static website using Google Cloud Storage (GCS) bucket**
 
 ## How to get there:
 
@@ -30,7 +30,6 @@ Create and host a static website using Google Cloud Storage (GCS) bucket
         <p>DareIT rocks!</p>
        </body>
       </html>
-      
 ```
 
 3. Upload the index.html file to the bucket.

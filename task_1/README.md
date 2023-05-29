@@ -2,7 +2,7 @@
 
 ## Goal of the task:
 
-List enabled services in GCP using either Cloud Shell or Cloud SDK installed on a local machine.
+**List enabled services in GCP using either Cloud Shell or Cloud SDK installed on a local machine.**
 
 ## How to get there:
 
